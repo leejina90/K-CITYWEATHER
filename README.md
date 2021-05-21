@@ -1,3 +1,6 @@
+
+<img src="images/logo_B.png" alt="KcityWeater logo"></img>
+
 # K-CITYWEATHER
 
 This is an H1
@@ -37,5 +40,3 @@ This is a normal paragraph:
     This is a code block.
     
 end code block.
-
-<img src="images/logo_B.png" alt="KcityWeater logo"></img>
