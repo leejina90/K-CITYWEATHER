@@ -38,4 +38,4 @@ This is a normal paragraph:
     
 end code block.
 
-<img src="images/logo_B.png" width="450px" height="100px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="images/logo_B.png" alt="KcityWeater logo"></img>
